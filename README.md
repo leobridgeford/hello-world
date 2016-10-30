@@ -1,2 +1,5 @@
 # hello-world
-initial repository
+
+Hi Humans!
+
+Beep beep!
